@@ -19,6 +19,8 @@ You'll use state's `set` function to modify data and render the new changes.
 
 - Set state using `useState` and `intialEmails`
 - Render a list of emails from state so it looks similar to the screenshot that comes with this message
+
+## Extension
 - Create a `toggleRead` function that updates the target email's **read** property in state, when a user clicks on the checkbox
 - Create a `toggleStar` function that updates the target email's **starred** property in state, when a user clicks on the star
 - Make sure these changes take effect in the UI
